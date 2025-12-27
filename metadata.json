@@ -1,0 +1,8 @@
+{
+    "name": "Spacify - Smart Logistics Marketplace",
+    "description": "A real-world LCL (Less than Container Load) marketplace for exporters to find, book, and track shared cargo container space in India.",
+    "requestFramePermissions": [
+        "camera",
+        "microphone"
+    ]
+}
